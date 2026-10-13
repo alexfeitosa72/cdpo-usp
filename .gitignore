@@ -1,0 +1,8 @@
+# Documentos pessoais (matrícula, contrato, comprovantes)
+documentacao/
+
+# Ambiente virtual: versionado apenas como config.zip
+config/
+
+# Jupyter
+.ipynb_checkpoints/
